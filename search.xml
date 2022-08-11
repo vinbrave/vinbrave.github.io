@@ -5,4 +5,13 @@
     <url>/2022/08/10/my-first-page/</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>Hexo的使用</title>
+    <url>/2022/08/11/Hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h3 id="关于用Hexo写文章的步骤"><a href="#关于用Hexo写文章的步骤" class="headerlink" title="关于用Hexo写文章的步骤"></a>关于用Hexo写文章的步骤</h3><h4 id="写文章"><a href="#写文章" class="headerlink" title="写文章"></a>写文章</h4><p>首先在博客根目录下右键打开git bash，安装一个扩展npm i hexo-deployer-git。</p>
+<p>然后输入hexo new post “文章名称”，新建一篇文章。</p>
+<p>然后打开 ***vinbrave.github.io\source_posts的目录，可以发现下面多了一个文件夹和一个.md文件，一个用来存放你的图片等数据，另一个就是你的文章文件啦。</p>
+<p>编写完markdown文件后，根目录下输入hexo g生成静态网页，然后输入hexo s可以本地预览效果，最后输入hexo d上传到github上。这时打开你的github.io主页就能看到发布的文章啦。</p>
+]]></content>
+  </entry>
 </search>
