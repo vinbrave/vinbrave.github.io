@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>my first page</title>
-    <url>/2022/08/10/my-first-page/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Hexo的使用</title>
     <url>/2022/08/11/Hexo%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
     <content><![CDATA[<h3 id="关于用Hexo写文章的步骤"><a href="#关于用Hexo写文章的步骤" class="headerlink" title="关于用Hexo写文章的步骤"></a>关于用Hexo写文章的步骤</h3><h4 id="写文章"><a href="#写文章" class="headerlink" title="写文章"></a>写文章</h4><p>首先在博客根目录下右键打开git bash，安装一个扩展npm i hexo-deployer-git。</p>
@@ -17,5 +12,10 @@
         <tag>hexo</tag>
         <tag>博客</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>my first page</title>
+    <url>/2022/08/10/my-first-page/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
